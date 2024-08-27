@@ -8,7 +8,8 @@
 
 
 ### DEMO LINK
-[Assignment-one](tuchela.github.io/assignment-one/)
+[Assignment-one](https://tuchela.github.io/assignment-one/)
+
 
 ### Author
 - Tuchela
